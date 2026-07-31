@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -45,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
