@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
