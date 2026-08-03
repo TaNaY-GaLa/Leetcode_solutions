@@ -4,16 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        candidate = 0
-        count = 0
-
-        for num in nums:
-            if count == 0:
-                candidate = num
-
-            if num == candidate:
-                count += 1
+        majority = 0
+        votes = 0
+        for number in nums:
+            if votes == 0:
+                majority = number
+            if number == majority:
+                votes += 1
             else:
-                count -= 1
-
-        return candidate
+                votes -= 1
+        return majority
