@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -76,8 +79,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
