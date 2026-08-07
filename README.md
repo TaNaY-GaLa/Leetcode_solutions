@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
