@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
