@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
