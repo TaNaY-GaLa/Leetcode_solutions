@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
