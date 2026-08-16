@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
@@ -196,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
