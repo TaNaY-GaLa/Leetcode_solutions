@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0190-reverse-bits) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
