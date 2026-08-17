@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
