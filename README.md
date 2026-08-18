@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
