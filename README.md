@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
