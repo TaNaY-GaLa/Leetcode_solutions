@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
