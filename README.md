@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
