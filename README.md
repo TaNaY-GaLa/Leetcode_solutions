@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0415-add-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TaNaY-GaLa/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
